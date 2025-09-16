@@ -1,6 +1,8 @@
 # API REST Discografías - IPLACEX
 
-Proyecto Spring Boot para gestionar discografías favoritas de empleados IPLACEX. Evaluación Unidad II - Programación Web Services.
+API REST Spring para administración de discografías favoritas de empleados de IPLACEX. 
+Proyecto Spring Boot 
+Evaluación Unidad II - Programación Web Services.
 
 ## Tecnologías
 - Java 21 + Spring Boot 3.3
